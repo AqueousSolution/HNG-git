@@ -1,0 +1,1 @@
+This is basically my first learning on git. Here I will be interning with Hotels.ng and learning Software Development
